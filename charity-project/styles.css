@@ -6,8 +6,9 @@ body {
 }
 
 header {
-  background: #2d89e5;
-  color: #fff;
+  background: #c6edc3;
+  color: #3a5a40;
+  font-size: 16pt;
   padding: 1rem 0;
   text-align: center;
 }
@@ -32,8 +33,9 @@ section {
 }
 
 footer {
-  background: #333;
-  color: #fff;
+  background: #c6edc3;
+  color: #3a5a40;
+  font-size: 16pt;
   text-align: center;
   padding: 1rem 0;
 }
